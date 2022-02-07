@@ -1,6 +1,5 @@
 const bson_types = [
     'binData',
-    'undefined',
     'objectId',
     'date',
     'regex',
